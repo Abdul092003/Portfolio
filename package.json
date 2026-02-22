@@ -1,0 +1,9 @@
+{
+  "name": "muhammad-abdul-rehman-portfolio",
+  "version": "1.0.0",
+  "description": "Futuristic AI Portfolio — Muhammad Abdul Rehman",
+  "private": true,
+  "dependencies": {
+    "nodemailer": "^8.0.1"
+  }
+}
